@@ -14,8 +14,7 @@ export default function Home() {
   //////////////////////////
   return (
    <main className="flex justify-center pt-50">
-    <h1 className="fa fa-spinner text-8xl text-blue-700 animate-[spin_2s_linear_infinite]"></h1>
-    <div></div>
+    <h1 className="fa fa-spinner text-8xl text-blue-700 animate-[spin_320ms_linear_infinite]"></h1>
    </main> 
   )
 }
